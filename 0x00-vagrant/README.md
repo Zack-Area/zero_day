@@ -8,7 +8,6 @@ The file 0-hello_ubuntu contains the answer to the following question:
 
 ```script
 ssh into your Ubuntu VM. What does the command uname print when you run it without any option?
-
 ```
 When you run the `uname` command without any option in an Ubuntu Virtual Machine, it will print the name of the operating system kernel. On Ubuntu, the output will be `Linux`.
 
